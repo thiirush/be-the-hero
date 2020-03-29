@@ -1,5 +1,4 @@
-# be-the-hero
-Aplicação NodeJS, ReactJS e React Native - Estudos
+# Aplicação NodeJS, ReactJS e React Native - Estudos
 Uma aplicação feita durante a Semana Oministack da RocketSeat.
 A aplicação se baseia em um pequeno sistema, onde uma ONG se cadastra, recebendo um ID para acessar seu conteúdo,
 dentro do paínel do admin, ela pode criar casos, informando a necessidade e o valor necessário.
